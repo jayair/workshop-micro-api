@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "engines": {
+    "node": "8.9.4"
+  },
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "latest",
+    "micro-dev": "latest",
+    "micro-cors": "latest"
+  }
+}
