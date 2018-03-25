@@ -207,7 +207,7 @@ module.exports = cors(async req => {
 
 ## Deploy Step 1
 
-Remix this project [glitch.com/~wolfhacks-micro-api](glitch.com/~wolfhacks-micro-api).
+Remix this project [glitch.com/~wolfhacks-micro-api](https://glitch.com/~wolfhacks-micro-api).
 
 ## Deploy Step 2
 
