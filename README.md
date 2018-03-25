@@ -202,3 +202,17 @@ module.exports = cors(async req => {
   return list;
 });
 ```
+
+---
+
+## Deploy Step 1
+
+Remix this project [glitch.com/~wolfhacks-micro-api](glitch.com/~wolfhacks-micro-api).
+
+## Deploy Step 2
+
+Replace the `package.json` & `index.js` with your local version.
+
+## Deploy Step 3
+
+Hit **Show** and save the URL.
