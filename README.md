@@ -15,6 +15,7 @@ Create a new directory.
 
 ```bash
 $ mkdir micro-api
+$ cd micro-api
 ```
 
 ## Step 2
