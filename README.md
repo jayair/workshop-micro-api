@@ -216,3 +216,25 @@ Replace the `package.json` & `index.js` with your local version.
 ## Deploy Step 3
 
 Hit **Show** and save the URL.
+
+---
+
+## Deploy Step 1
+
+Remix this project [glitch.com/~wolfhacks-micro-app](glitch.com/~wolfhacks-micro-app).
+
+## Deploy Step 2
+
+Replace the `package.json`, `public/index.html`, `src/index.css`, & `src/index.js` with your local version.
+
+## Deploy Step 3
+
+Replace the following with the URL from your API.
+
+```js
+const api = "http://localhost:3000";
+```
+
+## Deploy Step 4
+
+Hit **Show** and celebreate 🎉.
